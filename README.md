@@ -2,7 +2,7 @@
 
 ## 🤖 Simulation Preview
 
-<img src="robotsim.png" alt="MATLAB Robot Manipulator Simulation" width="500"/>
+<img src="robotsim.png" alt="MATLAB Robot Manipulator Simulation" width="500" height="300"/>
 
 
 ## 📌 Project Overview

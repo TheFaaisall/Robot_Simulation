@@ -1,8 +1,9 @@
 # Fundamentals of Robotics and Robotic Automation
 
 ## 🤖 Simulation Preview
-<!-- Replace the placeholder path below with your actual MATLAB simulation image file path -->
-![MATLAB Robot Manipulator Simulation](robotsim.png)
+
+<img src="robotsim.png" alt="MATLAB Robot Manipulator Simulation" width="500"/>
+
 
 ## 📌 Project Overview
 This repository contains the advanced engineering codebase, mathematical models, and algorithmic implementations developed for the **Monash University Robotics Unit**. The core objective of this project is to bridge theoretical robotics principles with practical, industry-standard simulation and control methodologies.
